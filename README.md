@@ -1,2 +1,2 @@
-# badges2
-quality
+badges
+
